@@ -2,7 +2,8 @@
 Enrich HBO Nordic movie/series listing with OMDb-data. Year, stars and votes.
 
 # Browser support
-- Chrome 48>=
+- Chrome 48+
+- Mozilla Firefox 40+
 
 # Setting up
 - Open `https://raw.githubusercontent.com/tronza/hbo-nordic-imdb/master/imdb-hbo-nordic.js` and copy everything.
@@ -13,4 +14,4 @@ Enrich HBO Nordic movie/series listing with OMDb-data. Year, stars and votes.
 - OMDb API `http://www.omdbapi.com/` returns the first matching movie or series, it could be fixed by providing correct year.
 
 # TODO:
-- Browser plugin
+- Browser plugins for Chrome and Firefox
